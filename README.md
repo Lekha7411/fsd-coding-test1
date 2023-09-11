@@ -31,3 +31,21 @@ Java 8+
 Spring Boot  
 Angular 6+  
 MongoDB
+
+
+# assignment-angular-springboot
+
+There are two projects in this repository 
+
+#web -- angular project
+
+## Start angular_springboot project
+
+Run `ng serve` Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+
+#app -- spring boot project
+## Start Spring boot project
+
+mvn spring-boot:run or run main file MainApplication.java
+
